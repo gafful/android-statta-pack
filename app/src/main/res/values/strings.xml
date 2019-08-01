@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">XYZLoans</string>
+    <string name="customer_registration">Customer Registration</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="name_of_employer">Name of Employer</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="employment_status">Employment Status</string>
+    <string name="type_of_id_card">Type of ID Card</string>
+    <string name="loan_records">Loan Records</string>
+    <string name="principal">Principal</string>
+    <string name="client_info">Client Info</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="username">Username</string>
+</resources>
